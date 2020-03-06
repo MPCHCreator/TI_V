@@ -23,7 +23,7 @@ void loop()
   }
   else
   {
-    digitalWrite(LEDPin, LOW);
+    digitalWrite(LgitEDPin, LOW);
     noTone(pinBuzzer);
   }
 }
