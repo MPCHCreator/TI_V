@@ -1,0 +1,11 @@
+{
+	"id_domicilio": "1",
+	"id": "1",
+	"nombre": "Andres",
+	"ap_pateno": "Pérez",
+	"ap_materno": "Paredes",
+	"edad": "25",
+	"genero": "M",
+	"usuario": "AndresPP",
+	"password": "1234"
+}

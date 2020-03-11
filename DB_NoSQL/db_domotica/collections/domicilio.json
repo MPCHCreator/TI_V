@@ -1,0 +1,106 @@
+{
+
+	"id":"1",
+	"calle": "Benito Juárez",
+	"ciudad": "Puebla",
+	"estado": "Puebla",
+	"pais": "México",
+	    "usuario":[
+		{
+			"id": "1",
+			"nombre": "Andres",
+			"ap_pateno": "Pérez",
+			"ap_materno": "Paredes",
+			"edad": "25",
+			"genero": "M",
+			"usuario": "AndresPP",
+			"password": "1234"
+		}
+	],
+	"horario":[
+		{
+			"id":"1",
+			"nombre":"h_luces",
+			"conf_horario":
+			[
+				{
+					"dia": "Lunes",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Martes",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Miercoles",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Jueves",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Viernes",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Sábado",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Domingo",
+					"hora_inicio": "",
+					"hora_fin": ""
+				}
+			]
+		},
+		{
+			"id":"2",
+			"nombre":"h_ausencia",
+			"conf_horario":
+			[
+				{
+					"dia": "Lunes",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Martes",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Miercoles",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Jueves",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Viernes",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Sábado",
+					"hora_inicio": "",
+					"hora_fin": ""
+				},
+				{
+					"dia": "Domingo",
+					"hora_inicio": "",
+					"hora_fin": ""
+				}
+			]
+		}
+	]
+}
